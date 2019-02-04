@@ -4,8 +4,14 @@ body {
 h1 {
     color: purple;
     background-color: azure;
-    font-size: 15px;
+    font-size: 35px;
     text-align: center;
     text-transform: capitalize;
     padding: 100px;
+}
+
+p {
+    background-color: lightpink;
+    color: gainsboro;
+    text-transform: uppercase;
 }
