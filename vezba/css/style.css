@@ -6,4 +6,5 @@ h1 {
     background-color: azure;
     font-size: 15px;
     text-align: center;
+    text-transform: capitalize;
 }
