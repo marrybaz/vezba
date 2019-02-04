@@ -4,4 +4,6 @@ body {
 h1 {
     color: purple;
     background-color: azure;
+    font-size: 15px;
+    text-align: center;
 }
